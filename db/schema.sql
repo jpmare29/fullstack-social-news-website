@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS social_news;
+
+CREATE DATABASE social_news;
