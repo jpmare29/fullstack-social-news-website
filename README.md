@@ -10,3 +10,5 @@ If the user decides to log out there session created after logging in
 will be destroyed and they will be taken back to the homepage.
 
 [Deployed Website](https://safe-wave-99783.herokuapp.com/)
+
+![2022-06-15](https://user-images.githubusercontent.com/74988217/173897520-9bc86c4d-4a59-46ea-bb5c-5d383b7d20f0.png)
